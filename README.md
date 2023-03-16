@@ -1,1 +1,1 @@
-# firebase-deploy
+# Deploy firebase functions github actions
